@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Toy_app is a beginner application that uses Rails 5.0.0.1 to build a tutorial application explained by railstutorials.org
 
-Things you may want to cover:
+Ruby version = 2.3.0
+Rails version = 5.0.0.1
 
-* Ruby version
+Deployed through heroku at floating-mesa-16866.herokuapp.com
 
-* System dependencies
+Database used is POSTGRESQL in production through Heroku
 
-* Configuration
+The application allows for RESTful application of HTTP protocol. 
 
-* Database creation
+Users are added in the default page and CRUD practices are performed on the Users model as well as Microposts associated with each user
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
